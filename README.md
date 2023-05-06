@@ -1,4 +1,3 @@
-# RL-Workshop-IIMBangalore
 This repository contains some of the codes that we use in the RL workshop conducted at IIM Bangalore.
 The aim of the wokshop is to make the participants familiar with Sequential decision making problems and provide them a brief overview of RL.
 The workshop is spread over two days on 3rd and 4th May 2023.
